@@ -3,7 +3,7 @@
 
 Config your referrer id and times to loop:
 ```javascript
-const referrer = "YOUR REFERRER ID";
+const referrer = "YOUR_AFF_ID";
 const timesToLoop = 10;
 ```
-then `node warp-v2.js`
+run `node warp-v2.js`
